@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\RollTheBall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6B28BC-8A11-3E84-A43C-21B65A82E095}|Assembly-CSharp.csproj|c:\\users\\jorda\\documents\\my code\\unity\\rolltheball\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6B28BC-8A11-3E84-A43C-21B65A82E095}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6B28BC-8A11-3E84-A43C-21B65A82E095}|Assembly-CSharp.csproj|c:\\users\\jorda\\documents\\my code\\unity\\rolltheball\\assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6B28BC-8A11-3E84-A43C-21B65A82E095}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6B28BC-8A11-3E84-A43C-21B65A82E095}|Assembly-CSharp.csproj|C:\\Users\\jorda\\Documents\\My Code\\Unity\\RollTheBall\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6B28BC-8A11-3E84-A43C-21B65A82E095}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6B28BC-8A11-3E84-A43C-21B65A82E095}|Assembly-CSharp.csproj|C:\\Users\\jorda\\Documents\\My Code\\Unity\\RollTheBall\\assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6B28BC-8A11-3E84-A43C-21B65A82E095}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6B28BC-8A11-3E84-A43C-21B65A82E095}|Assembly-CSharp.csproj|C:\\Users\\jorda\\Documents\\My Code\\Unity\\RollTheBall\\assets\\scripts\\rotatepickups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6B28BC-8A11-3E84-A43C-21B65A82E095}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatepickups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\RollTheBall\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\RollTheBall\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:29:59.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\RollTheBall\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\RollTheBall\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T22:29:31.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RotatePickups.cs",
+              "DocumentMoniker": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\RollTheBall\\Assets\\Scripts\\RotatePickups.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotatePickups.cs",
+              "ToolTip": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\RollTheBall\\Assets\\Scripts\\RotatePickups.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotatePickups.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:44:54.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rotate.cs",
+              "DocumentMoniker": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\RollTheBall\\Assets\\Scripts\\Rotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rotate.cs",
+              "ToolTip": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\RollTheBall\\Assets\\Scripts\\Rotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rotate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:33:55.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\RollTheBall\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\jorda\\Documents\\My Code\\Unity\\RollTheBall\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:40:58.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
