@@ -41,7 +41,7 @@ public class NewBehaviourScript : MonoBehaviour
             other.gameObject.SetActive(false);
             pickUpCount++;
             SetCountText();
-            if (pickUpCount == 2)
+            if (pickUpCount == TOTAL_PICK_UPS)
             {
                 DisplayYouWin();
             }

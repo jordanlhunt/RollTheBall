@@ -1,0 +1,104 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void CameraController_Start_m8EAAC188934ECCBD009EC00751280DCFF4D96C71 (void);
+extern void CameraController_LateUpdate_mC14DB0924E6F67288113AA92B3345A9B0ACEA27F (void);
+extern void CameraController__ctor_mE196A6332BDDED632D6F9DB6260E424594598950 (void);
+extern void NewBehaviourScript_Start_mDEAA416D3A6676A79851DDF6B62D676E53372A87 (void);
+extern void NewBehaviourScript_FixedUpdate_m5CD29F5FE80BB8313BEF43B4327D608E666F3D86 (void);
+extern void NewBehaviourScript_OnTriggerEnter_mF2113F0C5CAB3602D48A13C116422BC2E2A1ED16 (void);
+extern void NewBehaviourScript_SetCountText_mD6B2C19F18A78CB27006056D8E90B21B5F6D0E29 (void);
+extern void NewBehaviourScript_DisplayYouWin_mDB35C295B2166DD20894A4B780C3746EDFA29CC7 (void);
+extern void NewBehaviourScript_LoadEndScene_m089F78E61524411908A3C7EF0BF0BEA68A76283B (void);
+extern void NewBehaviourScript__ctor_mD2E080DE77BCDB61B6D2EC8AD996FAE611B97F3C (void);
+extern void Rotate_Update_m73D585515036D9B7AAD8336BFB8567283CE4C7E7 (void);
+extern void Rotate__ctor_m0EE5CC8EB699542BFC438DC3D547D39E442E9EE4 (void);
+extern void RotatePickups_Start_m7612E23A3AB9ECBB49625F86926FACD2749FD63A (void);
+extern void RotatePickups_Update_m9CCCF1A9FBAFF94CE6304D57AFFE7EEA68E2BFDB (void);
+extern void RotatePickups__ctor_m7EEC52CB4509FE68D4CFA7BE7E3E450AB5108930 (void);
+extern void SceneLoader_LoadNextScene_mB08328EABD3A531FC7D2D45E81745E80C1F7782C (void);
+extern void SceneLoader_LoadStartScene_mD84AFA8EB76FEDE3E61B0D8B8800AE14C47E6A0F (void);
+extern void SceneLoader_OnPressButtonQuitGame_m89A444DBF4449DA86B77F0F1DE1378627AD6676D (void);
+extern void SceneLoader__ctor_m2248766DF38AF07562AD31501C7275B8DF1B7D29 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[21] = 
+{
+	CameraController_Start_m8EAAC188934ECCBD009EC00751280DCFF4D96C71,
+	CameraController_LateUpdate_mC14DB0924E6F67288113AA92B3345A9B0ACEA27F,
+	CameraController__ctor_mE196A6332BDDED632D6F9DB6260E424594598950,
+	NewBehaviourScript_Start_mDEAA416D3A6676A79851DDF6B62D676E53372A87,
+	NewBehaviourScript_FixedUpdate_m5CD29F5FE80BB8313BEF43B4327D608E666F3D86,
+	NewBehaviourScript_OnTriggerEnter_mF2113F0C5CAB3602D48A13C116422BC2E2A1ED16,
+	NewBehaviourScript_SetCountText_mD6B2C19F18A78CB27006056D8E90B21B5F6D0E29,
+	NewBehaviourScript_DisplayYouWin_mDB35C295B2166DD20894A4B780C3746EDFA29CC7,
+	NewBehaviourScript_LoadEndScene_m089F78E61524411908A3C7EF0BF0BEA68A76283B,
+	NewBehaviourScript__ctor_mD2E080DE77BCDB61B6D2EC8AD996FAE611B97F3C,
+	Rotate_Update_m73D585515036D9B7AAD8336BFB8567283CE4C7E7,
+	Rotate__ctor_m0EE5CC8EB699542BFC438DC3D547D39E442E9EE4,
+	RotatePickups_Start_m7612E23A3AB9ECBB49625F86926FACD2749FD63A,
+	RotatePickups_Update_m9CCCF1A9FBAFF94CE6304D57AFFE7EEA68E2BFDB,
+	RotatePickups__ctor_m7EEC52CB4509FE68D4CFA7BE7E3E450AB5108930,
+	SceneLoader_LoadNextScene_mB08328EABD3A531FC7D2D45E81745E80C1F7782C,
+	SceneLoader_LoadStartScene_mD84AFA8EB76FEDE3E61B0D8B8800AE14C47E6A0F,
+	SceneLoader_OnPressButtonQuitGame_m89A444DBF4449DA86B77F0F1DE1378627AD6676D,
+	SceneLoader__ctor_m2248766DF38AF07562AD31501C7275B8DF1B7D29,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[21] = 
+{
+	5475,
+	5475,
+	5475,
+	5475,
+	5475,
+	4337,
+	5475,
+	5475,
+	5475,
+	5475,
+	5475,
+	5475,
+	5475,
+	5475,
+	5475,
+	5475,
+	5475,
+	5475,
+	5475,
+	8046,
+	5475,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	21,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
